@@ -23,6 +23,10 @@ This is a data analysis of Sales data and Customer data.
 
   ![PIVOT TABLE 2](https://github.com/user-attachments/assets/35cbbfbb-be43-4603-b1a1-04adf46ba1ed)
 
+The Pivot table show the average sales per product 
+
+![AVERAGE SALES](https://github.com/user-attachments/assets/8e5b897d-b693-479b-a0ff-5e8bd54f22e6)
+
 
 
 
